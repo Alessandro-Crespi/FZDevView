@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.641e1540.chunk.css",
-    "main.js": "./static/js/main.6bf55c10.chunk.js",
-    "main.js.map": "./static/js/main.6bf55c10.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.62b5424e.js",
-    "runtime-main.js.map": "./static/js/runtime-main.62b5424e.js.map",
-    "static/css/2.1b312d21.chunk.css": "./static/css/2.1b312d21.chunk.css",
-    "static/js/2.9846a851.chunk.js": "./static/js/2.9846a851.chunk.js",
-    "static/js/2.9846a851.chunk.js.map": "./static/js/2.9846a851.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.d1c001bdb1ed60878bd59fa957b1a399.js": "./precache-manifest.d1c001bdb1ed60878bd59fa957b1a399.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.1b312d21.chunk.css.map": "./static/css/2.1b312d21.chunk.css.map",
-    "static/css/main.641e1540.chunk.css.map": "./static/css/main.641e1540.chunk.css.map",
-    "static/js/2.9846a851.chunk.js.LICENSE.txt": "./static/js/2.9846a851.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "./static/media/zw.98a0162e.svg",
-    "static/media/albero.png": "./static/media/albero.c7b15778.png",
-    "static/media/favicon.png": "./static/media/favicon.7943cdad.png"
+    "main.css": "/alecrespi/alecrespi.github.io/static/css/main.d0c9996a.chunk.css",
+    "main.js": "/alecrespi/alecrespi.github.io/static/js/main.290572ba.chunk.js",
+    "main.js.map": "/alecrespi/alecrespi.github.io/static/js/main.290572ba.chunk.js.map",
+    "runtime-main.js": "/alecrespi/alecrespi.github.io/static/js/runtime-main.5cf4766d.js",
+    "runtime-main.js.map": "/alecrespi/alecrespi.github.io/static/js/runtime-main.5cf4766d.js.map",
+    "static/css/2.1b312d21.chunk.css": "/alecrespi/alecrespi.github.io/static/css/2.1b312d21.chunk.css",
+    "static/js/2.a24ac135.chunk.js": "/alecrespi/alecrespi.github.io/static/js/2.a24ac135.chunk.js",
+    "static/js/2.a24ac135.chunk.js.map": "/alecrespi/alecrespi.github.io/static/js/2.a24ac135.chunk.js.map",
+    "index.html": "/alecrespi/alecrespi.github.io/index.html",
+    "precache-manifest.455545dec2d9799a42b6970fee3e3b3f.js": "/alecrespi/alecrespi.github.io/precache-manifest.455545dec2d9799a42b6970fee3e3b3f.js",
+    "service-worker.js": "/alecrespi/alecrespi.github.io/service-worker.js",
+    "static/css/2.1b312d21.chunk.css.map": "/alecrespi/alecrespi.github.io/static/css/2.1b312d21.chunk.css.map",
+    "static/css/main.d0c9996a.chunk.css.map": "/alecrespi/alecrespi.github.io/static/css/main.d0c9996a.chunk.css.map",
+    "static/js/2.a24ac135.chunk.js.LICENSE.txt": "/alecrespi/alecrespi.github.io/static/js/2.a24ac135.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/alecrespi/alecrespi.github.io/static/media/zw.98a0162e.svg",
+    "static/media/albero.png": "/alecrespi/alecrespi.github.io/static/media/albero.c7b15778.png",
+    "static/media/favicon.png": "/alecrespi/alecrespi.github.io/static/media/favicon.7943cdad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.62b5424e.js",
+    "static/js/runtime-main.5cf4766d.js",
     "static/css/2.1b312d21.chunk.css",
-    "static/js/2.9846a851.chunk.js",
-    "static/css/main.641e1540.chunk.css",
-    "static/js/main.6bf55c10.chunk.js"
+    "static/js/2.a24ac135.chunk.js",
+    "static/css/main.d0c9996a.chunk.css",
+    "static/js/main.290572ba.chunk.js"
   ]
 }
