@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d075606.css",
-    "main.js": "/static/js/main.64f76987.js",
+    "main.css": "/static/css/main.e1beb256.css",
+    "main.js": "/static/js/main.0dcae3c1.js",
     "static/media/cover2.jpg": "/static/media/cover2.dd458f1b6aee75479ed6.jpg",
     "static/media/cover1.jpg": "/static/media/cover1.b5a7d61e9a14f61a56fa.jpg",
     "static/media/cover3-2.jpg": "/static/media/cover3-2.b8db6ba69262ba08ec1e.jpg",
     "static/media/cover3-3.jpg": "/static/media/cover3-3.0ed9c3f2b40aca63b886.jpg",
     "static/media/customer-review.jpg": "/static/media/customer-review.2c9e6e9c44abde791331.jpg",
+    "static/media/igor1.jpeg": "/static/media/igor1.723a40fe173d81ca2110.jpeg",
     "static/media/cover3-1.jpg": "/static/media/cover3-1.63e611cc000b39757b69.jpg",
     "index.html": "/index.html",
-    "main.7d075606.css.map": "/static/css/main.7d075606.css.map",
-    "main.64f76987.js.map": "/static/js/main.64f76987.js.map"
+    "main.e1beb256.css.map": "/static/css/main.e1beb256.css.map",
+    "main.0dcae3c1.js.map": "/static/js/main.0dcae3c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d075606.css",
-    "static/js/main.64f76987.js"
+    "static/css/main.e1beb256.css",
+    "static/js/main.0dcae3c1.js"
   ]
 }
