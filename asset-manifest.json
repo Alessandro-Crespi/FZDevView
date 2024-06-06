@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ec75871.css",
-    "main.js": "/static/js/main.ffd3bad0.js",
-    "static/media/cover2.jpg": "/static/media/cover2.dd458f1b6aee75479ed6.jpg",
-    "static/media/cover1.jpg": "/static/media/cover1.b5a7d61e9a14f61a56fa.jpg",
-    "static/media/cover3-2.jpg": "/static/media/cover3-2.b8db6ba69262ba08ec1e.jpg",
-    "static/media/cover3-3.jpg": "/static/media/cover3-3.0ed9c3f2b40aca63b886.jpg",
-    "static/media/customer-review.jpg": "/static/media/customer-review.2c9e6e9c44abde791331.jpg",
-    "static/media/igor1.jpeg": "/static/media/igor1.723a40fe173d81ca2110.jpeg",
-    "static/media/cover3-1.jpg": "/static/media/cover3-1.63e611cc000b39757b69.jpg",
+    "main.css": "/static/css/main.abfb5a69.css",
+    "main.js": "/static/js/main.cbe31112.js",
+    "static/media/psy1.jpg": "/static/media/psy1.4233a6978001f31c87d6.jpg",
+    "static/media/psy2.jpg": "/static/media/psy2.8aa5ddd2536852528220.jpg",
+    "static/media/therapist1.png": "/static/media/therapist1.9e07c4808d6a498ccb0e.png",
+    "static/media/banner.jpeg": "/static/media/banner.d90f16f457190ac995a0.jpeg",
+    "static/media/laura.jpeg": "/static/media/laura.afab83eb20716f417ad5.jpeg",
     "index.html": "/index.html",
-    "main.1ec75871.css.map": "/static/css/main.1ec75871.css.map",
-    "main.ffd3bad0.js.map": "/static/js/main.ffd3bad0.js.map"
+    "main.abfb5a69.css.map": "/static/css/main.abfb5a69.css.map",
+    "main.cbe31112.js.map": "/static/js/main.cbe31112.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ec75871.css",
-    "static/js/main.ffd3bad0.js"
+    "static/css/main.abfb5a69.css",
+    "static/js/main.cbe31112.js"
   ]
 }
